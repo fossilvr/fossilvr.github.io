@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "977532691667",
+    "firebase_url": "https://fossilvr-ebce6-default-rtdb.firebaseio.com",
+    "project_id": "fossilvr-ebce6",
+    "storage_bucket": "fossilvr-ebce6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977532691667:android:aa10ffd6f6751770afe026",
+        "android_client_info": {
+          "package_name": "com.tiles.fossilvr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977532691667-r95cmoqnsidt2hhgbv5ov811f2kn186r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAArHfHZ2YkXGkm6GSbBcqS3iGe8c_rxK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977532691667-r95cmoqnsidt2hhgbv5ov811f2kn186r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
